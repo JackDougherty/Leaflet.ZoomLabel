@@ -1,8 +1,11 @@
 Leaflet.ZoomLabel
 ====
 
-Leaflet.ZoomLabel is a simple zoom level control that you can drop into your leaflet map.
-It displays zoom level of the map.
+Leaflet.ZoomLabel is a simple control to display the zoom level in bottom-right corner. Credit: @unbam
+
+## Jack's Demo
+
+http://jackdougherty.github.io/Leaflet.ZoomLabel/index.html
 
 ## Usage
 
@@ -29,12 +32,8 @@ L.control.zoomLabel().addTo(map);
 
 ## Options
 
-`position:` The standard Leaflet.Control position parameter. Defaults to 'bottomleft'
+`position:` The standard Leaflet.Control position parameter. My default is: 'bottomright'
 
-
-## Demo
-
-[http://unbam.github.io/Leaflet.ZoomLabel/](http://unbam.github.io/Leaflet.ZoomLabel/)
 
 
 ## License
