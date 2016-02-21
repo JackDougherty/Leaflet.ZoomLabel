@@ -1,6 +1,6 @@
 L.Control.ZoomLabel = L.Control.extend({
     options: {
-        position: 'bottomright'
+        position: 'topright'
     },
 
     onAdd: function (map) {
